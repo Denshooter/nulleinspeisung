@@ -8,7 +8,7 @@ This project is inspired by and based on [Selbstbau-PV's Hoymiles nulleinspeisun
 
 ### Prerequisites
 - Docker installed
-- Grab the python script from GitHub [denshooter/nulleinspeisung](https://github.com/denshooter/nulleinspeisung)
+- The python script in this repo
 
 ### Configuration
 Modify `Nulleinspeisung.py` with your specific setup details:
